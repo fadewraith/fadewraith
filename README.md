@@ -19,7 +19,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fadewraith&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadewraith&layout=compact&theme=radical" />
 </div>
+<div align="center">
+<h3 align="left">🏆 GitHub Achievements:</h3>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fadewraith&theme=radical&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies" />
+</p>
+</div>
+
+<div align="center">
 <h3 align="left">🔥 Contribution Graph:</h3>
 
 <p align="center">
@@ -27,6 +35,5 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=fadewraith&theme=radical" alt="GitHub Contribution Graph" />
   </a>
 </p>
-
-
+</div>
 
